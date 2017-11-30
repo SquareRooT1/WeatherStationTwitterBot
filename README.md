@@ -2,8 +2,8 @@
 This project aims masure sensor data and Share this data in Twitter.
 
 ### Requirments
-1. Esp8266 
-* #### Esp8266 Lib - <return>
+1. #### Esp8266 
+*  Esp8266 Lib - <return>
 You have to install esp8266 board to Arduino ide.
     
     Boards menager link :http://arduino.esp8266.com/stable/package_esp8266com_index.json
