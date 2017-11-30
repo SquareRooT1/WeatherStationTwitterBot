@@ -3,12 +3,12 @@ This project aims masure sensor data and Share this data in Twitter.
 
 ### Requirments
 1. Esp8266 
-* Esp8266 Lib - <return>
+* #### Esp8266 Lib - <return>
 You have to install esp8266 board to Arduino ide.
     
     Boards menager link :http://arduino.esp8266.com/stable/package_esp8266com_index.json
     If you want more detail, Details are in https://github.com/esp8266/Arduino.
-* #### Dht11 & Adafruit Sensor Lib 
+*  Dht11 & Adafruit Sensor Lib 
 
     You need to download Dht11 library in here https://github.com/adafruit/DHT-sensor-library and import it to arduino libraries.
     If you get an error about Adafruit_sensor.h not found you can download it from 
