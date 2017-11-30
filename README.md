@@ -31,13 +31,13 @@ If you have nodejs installed in your computer. open command line and go to proje
 
 #### 3. Adafruit
 
-    Register https://io.adafruit.com/ and create feeds which name with 
+Register https://io.adafruit.com/ and create feeds which name with 
     "temperature" and "tweet" .
 
 #### 4. Twitter
 
-    Go to https://apps.twitter.com/ and create an application. 
+Go to https://apps.twitter.com/ and create an application. 
 
-    Get your consumer_key and Access_token
+Get your consumer_key and Access_token
 
 
