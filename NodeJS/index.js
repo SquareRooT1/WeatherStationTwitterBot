@@ -10,16 +10,16 @@ var queue = [];
   var mqttClient = mqtt.connect('mqtts://io.adafruit.com',{
     port: 8883,
     username: 'Frozen',
-    password: '70b6668f4477431ab6568661861558ec'
+    password: '' //Adafruit password in here
   });
 
 
 //Twitter Connection
 var client = new Twitter({
-    consumer_key: 'WLDFrCh7VM6WMGmPka9nIUinl',
-    consumer_secret: 'qX4eUqmSEu3JUQyQE6c8wZosaPTmw2r1JHwh85EPaLO19Gqadk',
-    access_token_key: '3086105097-90VkaC1XKlDuGZsVJ58fQbGTyKysv6rYGElQ68r',
-    access_token_secret: 'eYSjU7DXUFsiMEju1NLBzXSAjyPZNw6XQj8UMQVVrDdSM'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token_key: '',
+    access_token_secret: ''
   });
   
   var params = {screen_name: 'nodejs'};
