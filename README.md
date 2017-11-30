@@ -38,6 +38,6 @@ Register https://io.adafruit.com/ and create feeds which name with
 
 Go to https://apps.twitter.com/ and create an application. 
 
-Get your consumer_key and Access_token
+Get your **consumer_key** and **Access_token**
 
 
