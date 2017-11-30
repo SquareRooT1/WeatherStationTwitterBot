@@ -21,7 +21,7 @@ You have to install esp8266 board to Arduino ide.
  You need to have Nodejs and Npm for run the node application. <return>
  You can check for runing this commands
  ```
-    node -v // Example output your version might be different v6.6.0
+    node -v // Example output  v6.6.0   your version might be different
     npm -v  // 4.2.0
  ```
 If you have nodejs installed in your computer. open command line and go to project directory. Run this command.
