@@ -1,30 +1,30 @@
 # IOT Workshop 
-This project aims masure sensor data and Share this data in Twitter.
+This project aims measuring sensor data and sharing it in twitter.
 
-### Requirments 
+### Requirements 
 #### 1. Esp8266 
 *  Esp8266 Lib - <return>
-You have to install esp8266 board to Arduino ide.
+You have to install esp8266 board to Arduino IDE.
     
-    Boards menager link :http://arduino.esp8266.com/stable/package_esp8266com_index.json
-    If you want more detail, Details are in https://github.com/esp8266/Arduino.
-*  Dht11 & Adafruit Sensor Lib 
+    Boards manager link :http://arduino.esp8266.com/stable/package_esp8266com_index.json
+    for more detail, see the link:  https://github.com/esp8266/Arduino.
+*  Dht11 & Adafruit Sensor Lib. 
 
-    You need to download Dht11 library in here https://github.com/adafruit/DHT-sensor-library and import it to arduino libraries.
-    If you get an error about Adafruit_sensor.h not found you can download it from 
-    here https://github.com/adafruit/Adafruit_Sensor .
+    You need to download DHT11 library from here https://github.com/adafruit/DHT-sensor-library and import it into Arduino libraries.
+    If you get an error about "Adafruit_sensor.h not found" you can download it from 
+    here https://github.com/adafruit/Adafruit_Sensor.
 * Adafruit Mqtt Lib
    
-    Adafruit mqtt library link https://github.com/adafruit/Adafruit_MQTT_Library
+    Adafruit MQTT library link https://github.com/adafruit/Adafruit_MQTT_Library
 #### 2. Nodejs 
  
- You need to have Nodejs and Npm for run the node application. <return>
- You can check for runing this commands
+ You need to have Nodejs and Npm for running the node application. <return>
+ In order to make sure that you have both node and npm, execute following commands
  ```
     node -v // Example output  v6.6.0   your version might be different
     npm -v  // 4.2.0
  ```
-If you have nodejs installed in your computer. open command line and go to project directory. Run this command.
+If you have nodejs installed in your computer, open command line and go to project directory. Run this command
 ```
     cd NodeJS & npm install
 ```
