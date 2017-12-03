@@ -6,7 +6,7 @@ This project aims measuring sensor data and sharing it in twitter.
 *  Esp8266 Lib - <return>
 You have to install esp8266 board to Arduino IDE.
     
-    Boards manager link :http://arduino.esp8266.com/stable/package_esp8266com_index.json
+    Boards manager link :   http://arduino.esp8266.com/stable/package_esp8266com_index.json
     for more detail, see the link:  https://github.com/esp8266/Arduino.
 *  Dht11 & Adafruit Sensor Lib. 
 
