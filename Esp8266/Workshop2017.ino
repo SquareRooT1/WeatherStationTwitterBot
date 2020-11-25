@@ -22,7 +22,7 @@ DHT dht(DHTPIN, DHTTYPE);
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "Frozen"
-#define AIO_KEY         "70b6668f4477431ab6568661861558ec"
+#define AIO_KEY         ""
 
 /************ Global State (you don't need to change this!) ******************/
 
